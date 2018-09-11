@@ -1,12 +1,4 @@
 # 100daysML
-## Day XX - 11.09.2018
-### Graph Convolution NeuralNetwork
-- follows the link and content https://github.com/sungyongs/graph-based-nn
-- finished skimming the content of www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf
-- refreshed Linear algebra from https://www.lem.ma
-- went through the course of graph introduction https://www.coursera.org/learn/graphs/home/info
-- went through the PGM course https://www.coursera.org/specializations/probabilistic-graphical-models
-- TODO: reproduce the code for graphic model https://github.com/xbresson/spectral_graph_convnets
 
 ## 11.09.208
 ### Multi-spectral Convolutional Neural Networks CNN.
@@ -18,3 +10,14 @@
 -- [1611.02644] Multispectral Deep Neural Networks for Pedestrian Detection
 
 - WIKI pages for thermal imaging 
+
+## Day XX - 11.09.2018
+### Graph Convolution NeuralNetwork
+- follows the link and content https://github.com/sungyongs/graph-based-nn
+- finished skimming the content of www.cs.yale.edu/homes/spielman/PAPERS/SGTChapter.pdf
+- refreshed Linear algebra from https://www.lem.ma
+- went through the course of graph introduction https://www.coursera.org/learn/graphs/home/info
+- went through the PGM course https://www.coursera.org/specializations/probabilistic-graphical-models
+- TODO: reproduce the code for graphic model https://github.com/xbresson/spectral_graph_convnets
+
+
