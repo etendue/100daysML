@@ -4,6 +4,9 @@
 - a good start point https://docs.donkeycar.com/ including Car simulator
 - https://github.com/Unity-Technologies/ml-agents
 
+### a useful resource 
+- https://ai.google/research/teams/brain/pair
+
 ## Day 11.09.2018
 ### Multi-spectral Convolutional Neural Networks CNN.
 #### collected some papers.
