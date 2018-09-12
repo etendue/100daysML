@@ -1,6 +1,9 @@
 # 100daysML
+## Day 12.09.2018
+### Donkey Car Simulator
+- a good start point https://docs.donkeycar.com/ including Car simulator
 
-## Day 11.09.208
+## Day 11.09.2018
 ### Multi-spectral Convolutional Neural Networks CNN.
 #### collected some papers.
 - arXiv:1611.02644v1 [cs.CV] 8 Nov 2016
