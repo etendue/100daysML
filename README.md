@@ -8,7 +8,7 @@
 - (PDF) Multispectral and Hyperspectral Image Fusion Using a 3-D-Convolutional Neural Network
 - (PDF) Hyperspectral and Multispectral Image Fusion via Deep Two-Branches Convolutional Neural Network
 - [1611.02644] Multispectral Deep Neural Networks for Pedestrian Detection
-
+- KAIST Multispectral Pedestrian Detection Benchmark https://sites.google.com/site/pedestrianbenchmark/
 - WIKI pages for thermal imaging 
 
 ## Day XX - 11.09.2018
