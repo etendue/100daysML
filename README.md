@@ -2,6 +2,7 @@
 ## Day 12.09.2018
 ### Donkey Car Simulator
 - a good start point https://docs.donkeycar.com/ including Car simulator
+- https://github.com/Unity-Technologies/ml-agents
 
 ## Day 11.09.2018
 ### Multi-spectral Convolutional Neural Networks CNN.
