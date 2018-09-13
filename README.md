@@ -1,4 +1,12 @@
 # 100daysML
+## Day 13.09.2018
+### idea of knowledge fusion, inspired by https://arxiv.org/pdf/1809.03214.pdf
+1. train single purposed task individually
+2. fix individual models and train a high level fusion model for same task or similar purposed task
+3. fix the high level fusion model and fine-tune single purposed model 
+4. repeat 2 and 3 
+5. similar to Gibbs sampling
+
 ## Day 12.09.2018
 ### Donkey Car Simulator
 - a good start point https://docs.donkeycar.com/ including Car simulator
