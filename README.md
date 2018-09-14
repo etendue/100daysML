@@ -1,4 +1,7 @@
 # 100daysML
+## Day 14.09.2018
+### Replay buffer seems similar like Moving Average, though replay buffer considers also statistics
+
 ## Day 13.09.2018
 ### idea of knowledge fusion, inspired by https://arxiv.org/pdf/1809.03214.pdf
 1. train single purposed task individually
