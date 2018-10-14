@@ -1,4 +1,8 @@
 # 100daysML
+## Day 14.10.2018
+### Quantum Machine Learning intrudction
+- https://arxiv.org/pdf/1611.09347.pdf Quantum Machine Learning
+
 ## Day 14.09.2018
 ### Replay buffer seems similar like Moving Average, though replay buffer considers also statistics
 
