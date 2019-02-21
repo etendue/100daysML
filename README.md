@@ -1,4 +1,9 @@
 # 100daysML
+
+## Day 21.02.2019
+### Investigating Human Priors for Playing Video Games
+- https://arxiv.org/pdf/1802.10217.pdf
+
 ## Day 14.10.2018
 ### Quantum Machine Learning intrudction
 - https://arxiv.org/pdf/1611.09347.pdf Quantum Machine Learning
