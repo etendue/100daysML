@@ -2,6 +2,13 @@
 
 
 ## Day 22.02.2019
+### Evolving intrinsic motivations for altruistic behavior
+- https://arxiv.org/pdf/1811.05931.pdf
+### Thought on paper
+1. simulate the life (agent) with invidual learning(Policy Gradient) and Natrual Selection(Evoltion Algorithm) for agent group.
+2. the Rewards for agent and group is carefully designed.
+3. nature seems learn/train from end-to-end, but in an organized or hierarchical way with granuality/scale like instant skill(see, listen) ->  short-term policy -> long-term strategy.
+
 ### Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 - https://arxiv.org/pdf/1902.01889.pdf
 ### Thought on paper
