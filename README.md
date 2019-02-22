@@ -2,7 +2,7 @@
 
 
 ## Day 22.02.2019
-### Analyzing and Improving Representations with the Soft Nearest Neighbor Los
+### Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 - https://arxiv.org/pdf/1902.01889.pdf
 
 ## Thought after reading
