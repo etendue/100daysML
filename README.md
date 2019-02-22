@@ -4,8 +4,7 @@
 ## Day 22.02.2019
 ### Analyzing and Improving Representations with the Soft Nearest Neighbor Loss
 - https://arxiv.org/pdf/1902.01889.pdf
-
-## Thought after reading
+### Thought on paper
 1. to add some restriction in hidden layers (namely add soft nearst neighbour loss) helps to generalize the model and stable agaist attack.
 2. Reason: add soft nearst neighbour loss equivalently perserve the data distribution from data input. Similar as in unsuppervised learning to keep data distribution in model. By doing so it:
    * better feature representation
