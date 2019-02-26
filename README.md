@@ -1,5 +1,14 @@
 # 100daysML
 
+## Day 26.02.2019
+### World Discovery Models
+- https://arxiv.org/pdf/1902.07685.pdf
+### Thought on paper
+1. Very interesting idea: Agent learns the information gain(IG).
+2. Model-based RL
+3. Learn latent space
+4. almost conforms to previous several papers which emphasize the Network captures/learns the distribution of features
+5. The experiments are not convincing. The simple and well-designed experiments seem to rewrite the same equation of agent for environment. It would be more convicing if practical environment will be used, even Atari-Game serves better.
 
 ## Day 22.02.2019
 ### Evolving intrinsic motivations for altruistic behavior
