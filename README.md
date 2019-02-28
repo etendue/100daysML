@@ -1,4 +1,9 @@
 # 100daysML
+## Day 28.02.2019
+### Safe  Controller  Optimization  for  Quadrotors  with  Gaussian  Processe
+- https://arxiv.org/pdf/1509.01066.pdf
+### Thought on paper
+Just skimmed the paper. I can relate this paper to some work I did in ast year in 2018 when I was doing the (cascade) PID controller optimization for Drone control, as well as for Car motor control in 2017, I struggled to find optimal parameters for PID and did not have better ideas than manually tuning the parameters. After 1 year, I come up some ideas like, Reinforcement Learning(RL) method as well as Bayesian Optimization to cope with such problem. 
 
 ## Day 26.02.2019
 ### World Discovery Models
