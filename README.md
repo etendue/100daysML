@@ -5,6 +5,12 @@
 ### Thought on paper
 Just skimmed the paper. I can relate this paper to some work I did in ast year in 2018 when I was doing the (cascade) PID controller optimization for Drone control, as well as for Car motor control in 2017, I struggled to find optimal parameters for PID and did not have better ideas than manually tuning the parameters. After 1 year, I come up some ideas like, Reinforcement Learning(RL) method as well as Bayesian Optimization to cope with such problem. 
 
+### RECURRENT EXPERIENCE REPLAY IN DISTRIBUTED REINFORCEMENT LEARNING
+- https://openreview.net/pdf?id=r1lyTjAqYX
+
+### Thought on paper
+The paper explores the initalisation of RNN(LSTM) when training episodical experience. I was not aware such subtle details but may have enormous influence on result. Need to pay attention when working with LSTM in RL.
+
 ## Day 26.02.2019
 ### World Discovery Models
 - https://arxiv.org/pdf/1902.07685.pdf
