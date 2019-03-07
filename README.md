@@ -1,5 +1,10 @@
 # 100daysML
 ## Day 07.03.2019
+### Learning to Follow Directions in Street View
+- https://arxiv.org/pdf/1903.00401.pdf
+### Thought on paper
+The application of "Gated-Attention Architectures for Task-Oriented Language Grounding" in self-car driving
+
 ### Gated-Attention Architectures for Task-Oriented Language Grounding
 - https://arxiv.org/pdf/1706.07230.pdf
 ### Thought on paper
