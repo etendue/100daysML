@@ -1,4 +1,11 @@
 # 100daysML
+## Day 07.03.2019
+### Gated-Attention Architectures for Task-Oriented Language Grounding
+- https://arxiv.org/pdf/1706.07230.pdf
+### Thought on paper
+The work combines techniques from computer vision (CNN), Languague Processing(NLP) and Reinforcement Learning (RL) to achieve task of "Lanaguage Grounding".  Although still primitive, it is an integration towards Artificial General Intelligence (AGI)
+
+
 ## Day 28.02.2019
 ### Safe  Controller  Optimization  for  Quadrotors  with  Gaussian  Processe
 - https://arxiv.org/pdf/1509.01066.pdf
