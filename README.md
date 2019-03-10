@@ -1,4 +1,10 @@
 # 100daysML
+## Day 10.03.2019
+### FROM LANGUAGE TO GOALS: INVERSE REINFORCEMENT LEARNING FOR VISION-BASED INSTRUCTION FOLLOWING
+- https://arxiv.org/pdf/1902.07742.pdf
+### Thought on paper
+Similar to "Gated-Attention Architectures for Task-Oriented Language Grounding", explaining other approaches. 
+
 ## Day 07.03.2019
 ### Learning to Follow Directions in Street View
 - https://arxiv.org/pdf/1903.00401.pdf
