@@ -1,5 +1,10 @@
 # 100daysML
 ## Day 11.03.2019
+### PointPillars: Fast Encoders for Object Detection from Point Clouds
+- https://arxiv.org/pdf/1812.05784.pdf
+### Though on paper
+a solution for Lidar data with data type "Point Cloud". The papar mentioned also previous/contemporary meothods too. 
+
 ### Exploring Neural Networks with Activation Atlases
 - https://distill.pub/2019/activation-atlas/
 ### Though on paper
