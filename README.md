@@ -1,4 +1,14 @@
 # 100daysML
+## Day 11.03.2019
+### Exploring Neural Networks with Activation Atlases
+- https://distill.pub/2019/activation-atlas/
+### Though on paper
+I think this is the most "distilled" paper on neural network I read recently. Some ideas come afterwards:
+- Is the human brain(maybe part of them) organized similarly as artificial Neural Network? Can we process the brain imaging data by using the methods used in this paper to gain the information of brain (parts)?
+- The Neural network seems not "efficient" to store information, what is the reason?
+- Maybe there is alternative mathmatical ways to realize the "brain" functions
+- the "new Interface" session heralds very exciting potential applications in the future.
+
 ## Day 10.03.2019
 ### FROM LANGUAGE TO GOALS: INVERSE REINFORCEMENT LEARNING FOR VISION-BASED INSTRUCTION FOLLOWING
 - https://arxiv.org/pdf/1902.07742.pdf
