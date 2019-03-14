@@ -1,4 +1,14 @@
 # 100daysML
+## Day 14.03.2019
+### Robustness via curvature regularization, and vice versa
+- https://arxiv.org/pdf/1811.09716.pdf
+### Though on paper
+A theoretical paper by introducing curvature regularization, some kind of "2nd Order" Regularization which can make the decision (hyper)plane wider (similar idea of SVM). The result is robust of network.
+Recently I am somewhat confused but attracted by Fisher Information, Hessian Matrix etc. The paper seems in this domain which I can not easily understand due to weakness in relative math. 
+
+From another source of learning information theory, I have some haunch on Encoder/Decoder and relationship with Network(VAE, GAN) and also MLP. The information theory helps me to understand Neural Networks.
+
+
 ## Day 11.03.2019
 ### PointPillars: Fast Encoders for Object Detection from Point Clouds
 - https://arxiv.org/pdf/1812.05784.pdf
