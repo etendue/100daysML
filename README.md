@@ -2,7 +2,7 @@
 ## Day 14.03.2019
 ### Robustness via curvature regularization, and vice versa
 - https://arxiv.org/pdf/1811.09716.pdf
-### Though on paper
+### Thought on paper
 A theoretical paper by introducing curvature regularization, some kind of "2nd Order" Regularization which can make the decision (hyper)plane wider (similar idea of SVM). The result is robust of network.
 Recently I am somewhat confused but attracted by Fisher Information, Hessian Matrix etc. The paper seems in this domain which I can not easily understand due to weakness in relative math. 
 
@@ -12,12 +12,12 @@ From another source of learning information theory, I have some haunch on Encode
 ## Day 11.03.2019
 ### PointPillars: Fast Encoders for Object Detection from Point Clouds
 - https://arxiv.org/pdf/1812.05784.pdf
-### Though on paper
+### Thought on paper
 a solution for Lidar data with data type "Point Cloud". The papar mentioned also previous/contemporary meothods too. 
 
 ### Exploring Neural Networks with Activation Atlases
 - https://distill.pub/2019/activation-atlas/
-### Though on paper
+### Thought on paper
 I think this is the most "distilled" paper on neural network I read recently. Some ideas come afterwards:
 - Is the human brain(maybe part of them) organized similarly as artificial Neural Network? Can we process the brain imaging data by using the methods used in this paper to gain the information of brain (parts)?
 - The Neural network seems not "efficient" to store information, what is the reason?
