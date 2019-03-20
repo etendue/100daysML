@@ -9,8 +9,6 @@ Not went through the paper, too hard to follow. Some takeaway, BO is hard on hig
 
 Some refreshed concept: Thompson’s sampling
 
-From another source of learning information theory, I have some haunch on Encoder/Decoder and relationship with Network(VAE, GAN) and also MLP. The information theory helps me to understand Neural Networks.
-
 ## Day 14.03.2019
 ### Robustness via curvature regularization, and vice versa
 - https://arxiv.org/pdf/1811.09716.pdf
