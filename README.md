@@ -1,4 +1,16 @@
 # 100daysML
+
+## Day 20.03.2019
+### Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with
+Dragonfly
+- https://arxiv.org/pdf/1903.06694.pdf
+### Thought on paper
+Not went through the paper, too hard to follow. Some takeaway, BO is hard on high dimension optimization (two many hyperparameters?), can not be parallized( sequentially evaluation). This paper addresses above two problems. 
+
+Some refreshed concept: Thompson’s sampling
+
+From another source of learning information theory, I have some haunch on Encoder/Decoder and relationship with Network(VAE, GAN) and also MLP. The information theory helps me to understand Neural Networks.
+
 ## Day 14.03.2019
 ### Robustness via curvature regularization, and vice versa
 - https://arxiv.org/pdf/1811.09716.pdf
