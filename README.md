@@ -1,4 +1,10 @@
 # 100daysML
+## Day 21.03.2019
+### Backpropagation through time and the brain
+- https://www.sciencedirect.com/science/article/pii/S0959438818302009
+### Thought on paper
+No special take away. The paper tries to recommend Attention mechanism with RNN.
+
 
 ## Day 20.03.2019
 ### Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with
