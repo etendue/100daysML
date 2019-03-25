@@ -1,4 +1,19 @@
 # 100daysML
+
+## Day 25.03.2019
+### Exploiting Hierarchy for Learning and Transfer in KL-regularized RL
+- https://arxiv.org/pdf/1903.07438.pdf
+### Thought on paper
+A very compact paper crunching topics of Hierarchy Learning, information regularized learning, transfer learning.
+Takeaway from paper: 
+- Loss function consists of KL value from default policy + Reward gains. This indicates add prior to problem can speedup training, and Learning can adjust the reward gain vs deviation from prior. Open Question: how to get a default policy, imitation learning? 
+- High level policy use hidden states feature z, Low level policy use actual sensoric inputs
+
+There are various Information regularized technology of RL algorithms like, entropy, KL(Trusted Region). There is method to measure the Information Content for Deep Learning : https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177. It comes to my mind: can we use Entropy to evaluate/regularize the network performance/capacity for problem(s)? Namely:
+- estimate the entropy a problem(data set) has
+- estimate the capacitpy of a network
+- measure and adjust the network based on information it learns
+
 ## Day 21.03.2019
 ### Backpropagation through time and the brain
 - https://www.sciencedirect.com/science/article/pii/S0959438818302009
