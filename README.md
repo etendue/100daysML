@@ -1,6 +1,11 @@
 # 100daysML
 
 ## Day 26.03.2019
+### InfoBot: Transfer and Exploration via the Information Bottleneck
+- https://openreview.net/forum?id=rJg8yhAqKm
+### Thought on paper
+An approach of Information regulization for multi-task RL problem. Very promising in theory. I expect great achievement than GridWorld or Mujoco environment. 
+
 ### Rainbow: Combining Improvements in Deep Reinforcement Learning
 - https://arxiv.org/pdf/1710.02298.pdf
 ### Thought on paper
