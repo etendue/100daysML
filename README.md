@@ -6,6 +6,12 @@
 ### Thought on paper
 A very good experiment and analysis regarding combining a couple of DQN technologies.
 
+### Mutual information versus correlation
+- https://stats.stackexchange.com/questions/81659/mutual-information-versus-correlation
+
+###
+Though not 100% sure about the difference of them, certain "Information Gain" was achieved by reading the topic.
+BTW, I am still not clear, the source coding theory, noise channel communication. How communication can achieve "arbitrary error rate" when transmit-recieve signal within contraints of Channel Capacipity, defined by Mutual Information of X(source code) and Y(transmitted code with noise)? Need spend some time to study the topic.
 
 ## Day 25.03.2019
 ### Exploiting Hierarchy for Learning and Transfer in KL-regularized RL
