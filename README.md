@@ -1,5 +1,12 @@
 # 100daysML
 
+## Day 26.03.2019
+### Rainbow: Combining Improvements in Deep Reinforcement Learning
+- https://arxiv.org/pdf/1710.02298.pdf
+### Thought on paper
+A very good experiment and analysis regarding combining a couple of DQN technologies.
+
+
 ## Day 25.03.2019
 ### Exploiting Hierarchy for Learning and Transfer in KL-regularized RL
 - https://arxiv.org/pdf/1903.07438.pdf
