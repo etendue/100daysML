@@ -9,6 +9,11 @@ an achitecture for distributed training with centralized learner and distributed
 Small findings: the LSTM also uses actions, rewards as input in addtion to observations.
 
 
+### Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables
+- https://arxiv.org/abs/1903.08254
+### Thought on paper
+Context based Meta Learning, TL,NR. 
+
 ## Day 26.03.2019
 ### InfoBot: Transfer and Exploration via the Information Bottleneck
 - https://openreview.net/forum?id=rJg8yhAqKm
