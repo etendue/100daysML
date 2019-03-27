@@ -1,5 +1,14 @@
 # 100daysML
 
+## Day 27.03.2019
+### IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures
+- https://arxiv.org/pdf/1802.01561.pdf
+### Thought on paper
+an achitecture for distributed training with centralized learner and distributed workers. To save the time during learner updates policy, workers continue collecting experience with off-policy which later corrigated by Importance sampling.
+
+Small findings: the LSTM also uses actions, rewards as input in addtion to observations.
+
+
 ## Day 26.03.2019
 ### InfoBot: Transfer and Exploration via the Information Bottleneck
 - https://openreview.net/forum?id=rJg8yhAqKm
