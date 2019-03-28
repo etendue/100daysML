@@ -1,7 +1,7 @@
 # 100daysML
 
 ## 28.03.2019
-### My though on memorizing and generalization
+### My thought on memorizing and generalization
 It is common statement that models memorizing train data is not good for generalization. So what is difference between memorizing model and generalized model? Here is my thought ( take a classifier as example):
 - memorizing model learns association and correlation of features in a more dependent way, it learns the correlation or mutual information between feature dimensions
 - generalized model learns the feature distribution in an independent way. I.e. the Covariance matrix is diagonal matrix in ideal status.
