@@ -1,5 +1,14 @@
 # 100daysML
 
+## 28.03.2019
+### My though on memorizing and generalization
+It is common statement that models memorizing train data is not good for generalization. So what is difference between memorizing model and generalized model? Here is my thought ( take a classifier as example):
+- memorizing model learns association and correlation of features in a more dependent way, it learns the correlation or mutual information between feature dimensions
+- generalized model learns the feature distribution in an independent way. I.e. the Covariance matrix is diagonal matrix in ideal status.
+
+How to measure that:
+take the last hidden layer of (MLP) before the ouput node, calculate the entropy of this output $H_train(x)$ and compare with theoretical Shannon entropy of nodes, $H_c(x)$, which is how much information the nodes can capture, e.g. binary node can have value [0,1], if it contains 128 nodes, then the entropy of $H_c(x)$ is 128 bits. The real entropy of $H_train(x)$ can be calculated by sampling the train output from this layer.
+
 ## Day 27.03.2019
 ### IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures
 - https://arxiv.org/pdf/1802.01561.pdf
