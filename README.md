@@ -1,5 +1,12 @@
 # 100daysML
 
+## 09.04.2019
+### Guided Meta-Policy Search
+- https://arxiv.org/abs/1904.00956
+
+### My thought on memorizing and generalization
+did not go through the whole paper. Use imitation Learning/Expert Supervisied Learning can shorten the learning phase dramatically if Task is complicated. Meta Learning  generalize multi-tasks objetive.
+
 ## 28.03.2019
 ### My thought on memorizing and generalization
 It is common statement that models memorizing train data is not good for generalization. So what is difference between memorizing model and generalized model? Here is my thought ( take a classifier as example):
