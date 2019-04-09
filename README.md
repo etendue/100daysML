@@ -1,6 +1,13 @@
 # 100daysML
 
 ## 09.04.2019
+### DAGGER Imitation Learning
+- https://www.cs.cmu.edu/~sross1/publications/Ross-AIStats11-NoRegret.pdf
+### Example 
+- https://github.com/avisingh599/imitation-dagger
+### Thought on paper
+Training in a sense of supervised learning, with data generation by controlled variation. Not clear how it works???
+
 ### Guided Meta-Policy Search
 - https://arxiv.org/abs/1904.00956
 
