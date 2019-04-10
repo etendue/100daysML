@@ -1,4 +1,15 @@
 # 100daysML
+## 10.04.2019
+### Information Bottleneck and its Applications in Deep Learning
+- https://arxiv.org/abs/1904.03743
+### Thought on paper
+too much theory to understand the reasoning process. One interesting point is practically how to measure the information value for DNN hidden layers. In paper it mentions "binning" like histogram, which has limited use cases. 
+On another search for how to measure entropy of an image and found out the "value" of measured entropy depends on observer's interest or view point. What one matlab API for calculating entropy of an image is under assumption of pixel value distribution in pixel scale domain, it does not care about geometry information. 
+
+here is an good discussion for that
+https://stats.stackexchange.com/questions/235270/entropy-of-an-image
+
+
 
 ## 09.04.2019
 ### DAGGER Imitation Learning
