@@ -1,4 +1,11 @@
 # 100daysML
+## 27.04.2019
+### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
+- https://arxiv.org/pdf/1810.05762.pdf
+### Thought on paper
+Use parallelism of GPU to simulate physical process is a promising approach. Computer Vision utilizes already the parallelism of GPU. So if thousand physical processes also involve computer vision, then it is parallelsim^2, which may not be so efficient, though still promissing.
+
+
 ## 10.04.2019
 ### Information Bottleneck and its Applications in Deep Learning
 - https://arxiv.org/abs/1904.03743
