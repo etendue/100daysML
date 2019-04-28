@@ -1,4 +1,10 @@
 # 100daysML
+## 28.04.2019
+### Emergence of Locomotion Behaviours in Rich Environments
+- https://arxiv.org/abs/1707.02286
+### Thought on paper
+Experiment on a PPO variant "KL regualized" approach + Distributed Training. No visual input is applied. 
+
 ## 27.04.2019
 ### GPU-Accelerated Robotic Simulation for Distributed Reinforcement Learning
 - https://arxiv.org/pdf/1810.05762.pdf
