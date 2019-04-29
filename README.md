@@ -1,4 +1,14 @@
 # 100daysML
+## 29.04.2019
+### Local Relation Networks for Image Recognition
+- https://arxiv.org/abs/1904.11491
+### Thought on paper
+- at first glance it attracts me because I have tendency to believe that geometric relation matters in vision
+- the neural network seems to have a highly engineered structure, which means integrating human prior knowledge as much as possible. The network architecture leverages a variaty of recent improvements in AI, like CapsuleNet, Attention, Graph, Ablation etc. 
+- I am not against highly ordered structure, on the contrary, I believe the structure do make significance to form AI. Human shares indistingushiable similarity with our natural relatives, like chimps. So there must be a some structure that differs between human and chimps. 
+- The doubt is that, what is the significance of apply LR network in comparison to existing networks. It is hard to tell with few experiments.
+
+
 ## 28.04.2019
 ### Emergence of Locomotion Behaviours in Rich Environments
 - https://arxiv.org/abs/1707.02286
