@@ -1,4 +1,11 @@
 # 100daysML
+## 30.04.2019
+### Exploring the Limitations of Behavior Cloning for Autonomous Driving
+- https://arxiv.org/abs/1904.08980
+### Thought on paper
+- Paper says initialization, bias, variance and causal confusion are the factors of limitation of Behavior Cloning. variance and bias can not be dinimished if train and test sets do not share same distribution. Causal confusion relates to false feature depedence. Human has plenty full examples of causal confusion, illness and gods, fate and constellation 
+
+
 ## 29.04.2019
 ### Local Relation Networks for Image Recognition
 - https://arxiv.org/abs/1904.11491
