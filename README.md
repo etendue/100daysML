@@ -13,6 +13,12 @@
 - though not sure whether it is better to present the reality in digital or analog. From my point(a non-expert), such idea is innovating but not convincing with an example. Use analog device if it brings performance by utilizing phsical process is however a good approach. 
 - previous I came cross also a similar approach to use optical systems(lens) to do convolution.
 
+### Graph Matching Networks for Learning the Similarity of Graph Structured Objects
+- https://arxiv.org/abs/1904.12787
+### Thought on paper
+Use embeding to represent Graph and propagation(e.g. GCN) to do relation transformation and then do Distance measurement between Graphs.
+Remaining question for me, how to select/preprocess the input? 2 inputs shall be scaled into similar extention.
+
 
 ## 30.04.2019
 ### Exploring the Limitations of Behavior Cloning for Autonomous Driving
