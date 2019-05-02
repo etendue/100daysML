@@ -1,4 +1,19 @@
 # 100daysML
+## 02.05.2019
+### Wave Physics as an Analog Recurrent Neural Network
+- https://arxiv.org/abs/1904.12831
+- https://github.com/fancompute/wavetorch
+### Thought on paper
+- an interesting approach: exploring physical phenomena to realize RNN.
+- after jumping back and forth the paper, filtering out parts of unkown wave physics, I percieve the process as this.
+  * design a pyhsical system model, presented is a wave frequence detection or vowel detection
+  * learn the character parameters of physical system, presented is a material with mass density distribution as parameter.
+  * construct the physical system with learned parameter, presented is a material with required density distribution by 3D printing or nanolithography
+
+- though not sure whether it is better to present the reality in digital or analog. From my point(a non-expert), such idea is innovating but not convincing with an example. Use analog device if it brings performance by utilizing phsical process is however a good approach. 
+- previous I came cross also a similar approach to use optical systems(lens) to do convolution.
+
+
 ## 30.04.2019
 ### Exploring the Limitations of Behavior Cloning for Autonomous Driving
 - https://arxiv.org/abs/1904.08980
