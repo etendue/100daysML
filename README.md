@@ -1,4 +1,17 @@
 # 100daysML
+
+## 03.05.2019
+### Reinforcement Learning, Fast and Slow
+- https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930061-0
+### Thought on paper
+- explains when learns faster and when learns slow
+  - learns faster means learn few from data and use bias more
+  - learn slow is opposite
+  - Evolution is biological slow learning.
+- Meta-Learning -  model free (Not sure if I get the right idea)
+- Episodic Learning- model based, RNN
+
+
 ## 02.05.2019
 ### Wave Physics as an Analog Recurrent Neural Network
 - https://arxiv.org/abs/1904.12831
