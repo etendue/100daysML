@@ -1,5 +1,19 @@
 # 100daysML
 
+## 10.05.2019
+### Meta-learning of Sequential Strategies
+- https://arxiv.org/pdf/1905.03030.pdf
+### Thought on paper
+- integrate the domain differential learning and statistical learning(probablitic model)
+- This paper integrate several ideas into one achitecture
+  - Metal learning using memory based network
+  - combined with probalistic models
+  - based on dynamics of statemachine
+- it seems a very general achitecture of intelligent learning systems
+- fit well to brain model
+- this paper is too compact to explain each aspect with details. I guess it needs a mass of book to explain with realistic examples/codes.
+
+
 ## 03.05.2019
 ### Reinforcement Learning, Fast and Slow
 - https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930061-0
