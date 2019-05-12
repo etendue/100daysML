@@ -1,5 +1,15 @@
 # 100daysML
 
+## 12.05.2019
+### The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+- https://arxiv.org/abs/1803.03635
+### Thought on paper
+- Pruning the network to get smaller or better network which results a sparsy network is an interesting idea.
+- Further more the biological brain may endurce similar process to strength or descrease(till cut) the connectivity
+- It relates Dropout idea.
+- I am still not sure how to select the Winning Ticket from the algorithms
+
+
 ## 10.05.2019
 ### Meta-learning of Sequential Strategies
 - https://arxiv.org/pdf/1905.03030.pdf
