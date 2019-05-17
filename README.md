@@ -1,5 +1,14 @@
 # 100daysML
 
+## 17.05.2019
+### Habitat: A Platform for Embodied AI Research
+- https://arxiv.org/abs/1904.01201
+### Thought on paper
+- this simulation provides high performance, configurable tasks.
+- multiple sensor data, RGB, Depth, GPS
+- baseline implementation, PPO, SLAM.
+It is time to move on from AI2THOR to Habitat now.
+
 ## 12.05.2019
 ### The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
 - https://arxiv.org/abs/1803.03635
