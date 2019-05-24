@@ -1,5 +1,13 @@
 # 100daysML
 
+## 24.05.2019
+### Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask
+- https://arxiv.org/abs/1905.01067
+### Thought on paper
+- I am not surperized that Supermask is learning, as for CNN, training is learning masks.
+- I wonder signs are important, then what is the trained distributed of weights sign. I am not sure for CNN, all weights are positive?
+- small weights are caused by noise in data, zeros just remove these noise.
+
 ## 20.05.2019
 ### Embodied Question Answering in Photorealistic Environments with Point Cloud Perception
 - https://arxiv.org/abs/1904.03461
