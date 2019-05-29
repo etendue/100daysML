@@ -1,5 +1,12 @@
 # 100daysML
 
+## 29.05.2019
+### Revisiting Graph Neural Networks: All We Have is Low-Pass Filters
+- https://arxiv.org/pdf/1905.09550.pdf
+### Thought on paper
+- I am not clear what Graph Convolution does, which it is explained (again) in this paper.
+- sounds like disappointing that GCN only does the low-pass filter
+
 ## 24.05.2019
 ### Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask
 - https://arxiv.org/abs/1905.01067
