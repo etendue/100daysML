@@ -1,5 +1,12 @@
 # 100daysML
 ## 06.06.2019
+### SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud
+- https://arxiv.org/pdf/1710.07368v1.pdf
+### Thought on paper
+- a CNN-based Segementation Network for Lidar Point Cloud data
+- 3D is mapped into 2D, (maybe) Bird Eye View.
+- Additional Algorithm is applied (CRF), don't know how CRF works
+
 ### Mapless Online Detection of Dynamic Objects in 3D Lidar
 - https://arxiv.org/abs/1809.06972
 ### Thought on paper
