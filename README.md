@@ -1,4 +1,12 @@
 # 100daysML
+## 06.06.2019
+### Mapless Online Detection of Dynamic Objects in 3D Lidar
+- https://arxiv.org/abs/1809.06972
+### Thought on paper
+- This paper has nothing to do with neural network
+- It presents method to process LIDAR point cloud data with motion distortion correction, time-based processing
+- It introduces a CARLA simulation to get expected label
+- Its purpose is to identify static objects, dynamic objects and free space.
 
 ## 29.05.2019
 ### Revisiting Graph Neural Networks: All We Have is Low-Pass Filters
