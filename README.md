@@ -1,4 +1,11 @@
 # 100daysML
+## 07.06.2019
+### SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud
+- https://arxiv.org/abs/1809.08495
+### Thought on paper
+- an improvement of Segementation network for Lidar Point Cloud data
+- add pooling to smooth image, filtering out spatial high frequency, in paper it is called CAM(ontext Aggregation Module)
+  
 ## 06.06.2019
 ### SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud
 - https://arxiv.org/pdf/1710.07368v1.pdf
