@@ -1,4 +1,13 @@
 # 100daysML
+## 11.06.2019
+### Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights
+- https://arxiv.org/abs/1905.11436
+### Thought on paper
+- did not go through paper rigidly due to lack of mathmatical knowledge
+- it states relationship between Kalman Filter, Sensor Fusion and Regression, later 2 of which are extreme cases of Kalman Filter
+- Explanation is under Bayesian Estimation/Inference framework.
+
+
 ## 07.06.2019
 ### SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud
 - https://arxiv.org/abs/1809.08495
