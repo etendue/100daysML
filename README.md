@@ -1,4 +1,13 @@
 # 100daysML
+## 12.06.2019
+### CARLA: An Open Urban Driving Simulato
+- http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf
+### Thought on paper
+- an introduction of CARLA project at stage of 2017
+- 3 approaches are presented, Module Pipeline, Imitation Learning, Reinforcement Learning
+- Performance of RL is a major limitation for tuning.
+
+
 ## 11.06.2019
 ### Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights
 - https://arxiv.org/abs/1905.11436
