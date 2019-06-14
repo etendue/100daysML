@@ -1,6 +1,6 @@
 # 100daysML
 ## 14.06.2019
-### https://weightagnostic.github.io/
+### Weight Agnostic Neural Networks
 - https://weightagnostic.github.io/
 ### Thought on paper
 - very impressive.
