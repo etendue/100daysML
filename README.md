@@ -1,6 +1,17 @@
 # 100daysML
+## 14.06.2019
+### https://weightagnostic.github.io/
+- https://weightagnostic.github.io/
+### Thought on paper
+- very impressive.
+- structure search from scratch
+- performance metric including rewards, complexity of networks
+- enrich the learning way spectrum; previously the focus was mainly on backpropagation,evolution on weights. 
+
+
+
 ## 12.06.2019
-### CARLA: An Open Urban Driving Simulato
+### CARLA: An Open Urban Driving Simulator
 - http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf
 ### Thought on paper
 - an introduction of CARLA project at stage of 2017
