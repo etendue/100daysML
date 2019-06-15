@@ -1,4 +1,13 @@
 # 100daysML
+
+## 15.06.2019
+### On Value Functions and the Agent-Environment Boundary
+- https://arxiv.org/pdf/1905.13341.pdf
+### Thought on paper
+- sounds bold idea to question the RL theory and grounded assumptions
+- unfortunately too hard for me to read.
+
+
 ## 14.06.2019
 ### Weight Agnostic Neural Networks
 - https://weightagnostic.github.io/
