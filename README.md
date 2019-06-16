@@ -1,4 +1,15 @@
 # 100daysML
+## 16.06.2019
+### Stabilizing the Lottery Ticket Hypothesis
+- https://arxiv.org/pdf/1903.01611.pdf
+### Thought on paper
+- extention to previous research on structure of network matters
+- refute the thought that pure luck does not leading to perfect network, i.e. some subnetwork is winning network by initialization is not valid for complex problems
+- It triggers me the theory or explanation of why prunning works
+- I am going to do some experiments to verify my ideas. From linear system to non-linear systems
+- I conjecture that CNN is special for prunning due to its exotic processing 
+- I wonder how the prunning developes along the procedue, which parts are first prunned at each layer and step
+- what is the opposite direction of prunning? growing new connection, new node, the "Weight Agnostic Neural Networks" sounds in this direction.
 
 ## 15.06.2019
 ### On Value Functions and the Agent-Environment Boundary
