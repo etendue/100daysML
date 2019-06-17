@@ -1,4 +1,16 @@
 # 100daysML
+## 17.06.2019
+### EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+- https://arxiv.org/abs/1905.11946
+### Thought on paper
+- The paper seems follows the law of information transportation during processing information transformation/neural network.
+- Sounds follow the information metrics, information is increased by exponential/logarithm.
+- to avoid bottleneck of network architecture? by tuning d,w,r simulataneously.
+- Along information flow, target(end point) can be calculated from dataset, e.g. class distribution
+- can we backwards to calculate the required capacity of layer?
+- what is the relationship to Lottery Ticket Hypothesis? Can we accommodate the sparse achitecture with dense achitecture? or equivalent?
+
+
 ## 16.06.2019
 ### Stabilizing the Lottery Ticket Hypothesis
 - https://arxiv.org/pdf/1903.01611.pdf
