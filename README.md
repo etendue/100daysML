@@ -5,7 +5,7 @@
 - https://arxiv.org/abs/1811.12359
 ### Thought on paper
 - A theoretical paper with example experiments, which I am not familiar with.
-- I interested in the topic of independent (hidden) dimensions to describe the world.
+- I am interested in the topic of independent (hidden) dimensions to describe the world.
 - I think I am very vunerable to Theorem; it is most likely that I don't understand the proof of Theorem, leaving me a unsolid memory of statement of theorem
 - familiar with causality and ICA (Independent Component analysis) is mentioned but I am not. A fully entangled pair random variable (X,X') have p(X) = p(X'), am I right?
 - it is not clear that these approaches and trained models performed well because of disentanglement. It is intuitively clear that disentanglement contributes, however intuition is not always proved or provable.
