@@ -1,5 +1,14 @@
 # 100daysML
 
+## 22.06.2019
+### A Growing Neural Gas Network Learns Topologies 
+- http://papers.nips.cc/paper/893-a-growing-neural-gas-network-learns-topologies.pdf
+### Thought on paper
+- Only get keywords Hebian Learning and Vonoroi
+- Not clear how the algorithms work exactly. It seems to have similarity to K-mean cluster
+- The purpose of the algorithms is to find the topology(shape, geometry) of data, whose geometry distribution is unknown, but we get sampled data from measurement.
+
+
 ## 18.06.2019
 ### Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
 - https://arxiv.org/abs/1811.12359
