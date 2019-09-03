@@ -3,6 +3,7 @@
 ## 03.09.2019
 ### Understanding the difficulty of training deep feedforward neural networks
 - http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+- https://prateekvjoshi.com/2016/03/29/understanding-xavier-initialization-in-deep-neural-networks/ (very comprehensive explanation)
 ### Thought on paper
 - The initialization of weights strongly influences or determines the training process.
 - standard uniform random initialization [-1/sqrt(n), 1/sqrt(n)] causes saturation of weights in deep layer network
