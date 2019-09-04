@@ -1,5 +1,16 @@
 # 100daysML
 
+## 04.09.2019
+### Understanding the difficulty of training deep feedforward neural networks
+- https://arxiv.org/pdf/1502.01852.pdf
+- https://pouannes.github.io/blog/initialization/
+- http://cs231n.github.io/convolutional-networks/
+- https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
+### Thought on paper
+- the paper deals with the combination of CNN with RELU case, it shall be ok with non-CNN but with RELU
+- with Kaiming intialization, it preserves either the variance of activation or back-propagation gradients, but not both. One of them will be scaled to c2/dL or dL/c2.
+- it is enlighting the convolution can be simplified as a Matrix mulitplication W*x, with W containing some regularity see https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c
+
 ## 03.09.2019
 ### Understanding the difficulty of training deep feedforward neural networks
 - http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
