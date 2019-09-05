@@ -1,4 +1,14 @@
 # 100daysML
+## 05.09.2019
+### Fixup Initialization: Residual Learning Without Normalization
+- https://arxiv.org/abs/1901.09321
+
+### Thought on paper
+- the He initialization solves the Relu activation, but ResNet introduces skip-connection, which introduces new factor for gradient explosion.
+- a new method is introduced to fix this new achitecture.
+- for me it seems, it is always required to analyze the propoerty of data(input), the model achitecture, when an application is tried to be sovled by neural network. 
+  - to check whether the solution will work at first place from theory
+  - monitor the training/learning process 
 
 ## 04.09.2019
 ### Understanding the difficulty of training deep feedforward neural networks
