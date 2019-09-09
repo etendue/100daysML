@@ -1,4 +1,14 @@
 # 100daysML
+
+## 09.09.2019
+### A Probabilistic Representation of Deep Learning
+- https://arxiv.org/abs/1908.09772
+
+### Thought on paper
+- the article tries to assemble DNNs with Graph Probablistic Model. 
+- intuitively sounds a attractive idea, that layers near data learn the prior distribution of data and layers to output assemble the posterier of target information.
+- Did not go through the details, so not sure if the statement is rectified in theory
+
 ## 05.09.2019
 ### Fixup Initialization: Residual Learning Without Normalization
 - https://arxiv.org/abs/1901.09321
