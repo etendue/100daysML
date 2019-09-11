@@ -11,6 +11,20 @@
 - it does not consider the gradient propagation, so I am not sure if gradient vanishing or exploding problem is tackled 
 - the mathematical derivation is overwhelming and initimdating. it uses ~ 100 pages to illustrate that.
 
+### All you need is a good init
+- https://arxiv.org/abs/1511.06422
+
+### Thought on paper
+- apply the weight initialization with orthogonal matrix plus scaling with batch input data
+- extension from Xavier, Kaiming's initialization
+
+### Exact solutions to the nonlinear dynamics of learning in deep linear neural networks
+- https://arxiv.org/abs/1312.6120
+
+### Thought on paper
+- apply the weight initialization with orthogonal matrix plus scaling
+- extension from Xavier, Kaiming's initialization
+
 
 ## 09.09.2019
 ### A Probabilistic Representation of Deep Learning
