@@ -1,5 +1,17 @@
 # 100daysML
 
+
+## 11.09.2019
+### Self-Normalizing Neural Networks
+- https://arxiv.org/abs/1706.02515
+
+### Thought on paper
+- The article introduced a SELU activation function, with additional parameter of lambda and alpha
+- the SELU has property to maintain the mean and variance of activation across multiple layers
+- it does not consider the gradient propagation, so I am not sure if gradient vanishing or exploding problem is tackled 
+- the mathematical derivation is overwhelming and initimdating. it uses ~ 100 pages to illustrate that.
+
+
 ## 09.09.2019
 ### A Probabilistic Representation of Deep Learning
 - https://arxiv.org/abs/1908.09772
