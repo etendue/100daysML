@@ -1,5 +1,8 @@
 # 100daysML
-
+## 13.09.2019
+### Softmax and the class of "background"
+- Jerome Howard explains that Softmax needs to be used with caution, as it always convert logits to probablity, the input needs to be currated that at least one class exists, else it makes no sense when test inputs do not have any object belongs to classes; for superviosed  training it is not a problem, because the input is always labelled with a class.
+- for semantic segmentation, the "background" class, i.e. none of classes wanted is hard to classify, since it needs O( N x I(class)) capacity to identify. The weights need to classify all possible classes to negative. I assume the "background" class learns the average bias or threshold of all possible classes to be classified as negative(Not a class). So it depends highly on the training distribution and has bad generalization.
 
 ## 11.09.2019
 ### Self-Normalizing Neural Networks
