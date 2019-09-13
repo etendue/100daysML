@@ -11,6 +11,15 @@
 - Batch Normalization transform the inputs of each layer to 0-mean,1 variant distribution, how would it affect the bias?
 - Needs to work with a concrete example.
 
+### Layer Normalization
+- https://arxiv.org/pdf/1607.06450.pdf
+
+### Thought on paper
+- Layer normalization deals with problem of RNNs, which Batch Normalization can not
+- the paper provides more insight of mathmatical properties of normalization operation, especially on invariants
+- Layer normalization does not proove to be better for CNNs, as CNNs has small "perceptral angle" than Dense Network, so correlate the neuros with unrelated information is a factor that Layer Normalization may not work well
+- The paper gives thinking on circumstance of problem when applying what kind of normalization. 
+
 
 ## 11.09.2019
 ### Self-Normalizing Neural Networks
