@@ -1,4 +1,12 @@
 # 100daysML
+## 17.09.2019
+### Instance Normalization: The Missing Ingredient for Fast Stylization
+- https://arxiv.org/abs/1607.08022
+### Thought on paper
+- the method is applied for Style transfer
+- instance normalization as its name imply, normalization on a single image. I.e. contrast normalization
+
+
 ## 13.09.2019
 ### Softmax and the class of "background"
 - Jerome Howard explains that Softmax needs to be used with caution, as it always convert logits to probablity, the input needs to be currated that at least one class exists, else it makes no sense when test inputs do not have any object belongs to classes; for superviosed  training it is not a problem, because the input is always labelled with a class.
