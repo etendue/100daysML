@@ -1,4 +1,12 @@
 # 100daysML
+## 19.09.2019
+### Group Normalization
+- https://arxiv.org/abs/1803.08494
+### Thought on paper
+- Generalizes the Layer Normalization and Instance Normalization
+- A way to add human prior to model achitecture. I.e. we manually group the feature channel into similar catelogs.
+
+
 ## 17.09.2019
 ### Instance Normalization: The Missing Ingredient for Fast Stylization
 - https://arxiv.org/abs/1607.08022
