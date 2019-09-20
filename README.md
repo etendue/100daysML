@@ -1,4 +1,13 @@
 # 100daysML
+## 20.09.2019
+### Revisiting Small Batch Training for Deep Neural Networks
+- https://arxiv.org/abs/1804.07612
+### Thought on paper
+- Batch size affects the variance of weight update
+- Big batch size with mean loss reduce the variance and degrade the generalization of SGD
+- Batch Normalization counter-interact the mean effect and prefers relative large batch size.
+
+
 ## 19.09.2019
 ### Group Normalization
 - https://arxiv.org/abs/1803.08494
