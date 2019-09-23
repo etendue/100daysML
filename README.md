@@ -1,4 +1,13 @@
 # 100daysML
+## 23.09.2019
+### Cyclical Learning Rates for Training Neural Networks
+- https://arxiv.org/pdf/1506.01186.pdf
+### Thought on paper
+- how to find a range of Learning rate based on trend of accurracy: when accurracy decreases while learning rate increases, set the max boundary of learning rate
+- use cyclical learning rate schedule to train network instead of fixed learning rate or monotonic descreaing schedule.
+- the justification of why CLR works is not very clear for me. Some hints like to add more variance of gradients?
+
+
 ## 20.09.2019
 ### Revisiting Small Batch Training for Deep Neural Networks
 - https://arxiv.org/abs/1804.07612
