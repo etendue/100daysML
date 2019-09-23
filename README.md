@@ -7,6 +7,16 @@
 - use cyclical learning rate schedule to train network instead of fixed learning rate or monotonic descreaing schedule.
 - the justification of why CLR works is not very clear for me. Some hints like to add more variance of gradients?
 
+### A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay
+- https://arxiv.org/abs/1803.09820
+### Thought on paper
+- experiments on learning rate, batch-size, momentum and weight decay.
+- introduce one-shot fit
+- experiments on cyclic learning rate, moment.
+- experiments on different datasets and neural network architectures
+- all problems are supervised learning
+- Interesting to see similar analysis in RL domain.
+
 
 ## 20.09.2019
 ### Revisiting Small Batch Training for Deep Neural Networks
