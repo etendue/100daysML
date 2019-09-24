@@ -1,4 +1,14 @@
 # 100daysML
+## 24.09.2019
+### A systematic study of the class imbalance problem in convolutional neural networks
+- https://arxiv.org/abs/1710.05381
+### Thought on paper
+- several methods are experimented, oversampling, undersampling; threshold
+- ROC AUC metric to measure the model. ROC AUS is another topic to explore.
+- class imbalance was the first problem when I trained the CNN network with data from simulation
+- I am still boggling how to handle this problem in RL domain, since in RL environment input distribution shifts during training
+
+
 ## 23.09.2019
 ### Cyclical Learning Rates for Training Neural Networks
 - https://arxiv.org/pdf/1506.01186.pdf
