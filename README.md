@@ -1,4 +1,13 @@
 # 100daysML
+## 26.09.2019
+### Visualizing and Understanding Convolutional Networks
+- https://arxiv.org/abs/1311.2901
+### Thought on paper
+- Revisit the topic of feature visualization
+- visualize single activation in final layer shows the decomposition from layer 1 to last
+- i.e. if you visualize the last layer, you will see gradually abstracter activation maps
+- if you visualize activation in ealier layer, you see the element the filter recoginize
+
 ## 24.09.2019
 ### A systematic study of the class imbalance problem in convolutional neural networks
 - https://arxiv.org/abs/1710.05381
