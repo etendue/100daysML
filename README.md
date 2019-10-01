@@ -1,4 +1,13 @@
 # 100daysML
+## 01.10.2019
+### Deep Residual Learning for Image Recognition
+- https://arxiv.org/abs/1512.03385
+### Thought on paper
+- I was confused why it was called residual network. The residual network here is represented by F(x), the path without skip connection.
+- why it is called "residual", the difference between target output H(x) and input X. 
+- It seems residual is applied for residual block, because final output of network has quite different shape as input X.
+- that also bothers me when input output dimension does not match.
+
 ## 26.09.2019
 ### Visualizing and Understanding Convolutional Networks
 - https://arxiv.org/abs/1311.2901
