@@ -1,4 +1,16 @@
 # 100daysML
+## 02.10.2019
+### Visualizing the Loss Landscape of Neural Nets
+- https://arxiv.org/abs/1712.09913
+### Thought on paper
+- non-convex loss function, why and how to know? check with Hessian matrix and its eigen value, another topic needs to learn
+- how is loss surface calculated and visualized. PCA?
+- is it universal by add skip-connection to convexize the loss function?
+- wider net has much convexer loss surface
+- The paper provides code.
+- is there other tricks to convexize and smooth the loss function?
+
+
 ## 01.10.2019
 ### Deep Residual Learning for Image Recognition
 - https://arxiv.org/abs/1512.03385
