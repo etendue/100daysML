@@ -1,4 +1,11 @@
 # 100daysML
+## 03.10.2019
+### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+- https://arxiv.org/abs/1603.08155
+### Thought on paper
+- add feature loss function to Loss, feature loss is extracted from a transfer model
+- need example and code to see how it is done
+
 ## 02.10.2019
 ### Visualizing the Loss Landscape of Neural Nets
 - https://arxiv.org/abs/1712.09913
