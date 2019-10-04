@@ -1,4 +1,15 @@
 # 100daysML
+## 04.10.2019
+### The Loss Surfaces of Multilayer Network
+- https://arxiv.org/pdf/1412.0233v3.pdf
+### Thought on paper
+- The authoer represent a loss function in form of polynomial expression, w1*w2*wn
+- the output is a collection of subset of walks from input through hidden layers, with some walk filtered out by activation functions, e.g. Relu
+- The article tries to prove some boundary of neural network with physical model Hamilton spin-glass model(Ising model). Not famliar with these things
+- conclusion is big net tends to converge but overfit.
+- No example of loss surface, but I guess due to polynomial expression of loss, the Hessian Matrix w.r.t Weights w is random with minus/positive signs, therefore it is non-convex.
+
+
 ## 03.10.2019
 ### Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 - https://arxiv.org/abs/1603.08155
