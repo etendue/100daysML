@@ -1,4 +1,15 @@
 # 100daysML
+
+## 08.11.2019
+### Computing Receptive Fields of Convolutional Neural Networks
+- https://distill.pub/2019/computing-receptive-fields/
+### Thought on paper
+- provides a way to calculate receptive field side in single path network and multi-path network
+- discussed about the alignment of center of recpetive field problem
+- attribution of accurracy improviment related to receptive field side.
+  - probably the increasing of receptive field size catches the outliers or long tail of data distribution
+
+
 ## 04.10.2019
 ### The Loss Surfaces of Multilayer Network
 - https://arxiv.org/pdf/1412.0233v3.pdf
