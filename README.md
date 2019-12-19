@@ -1,4 +1,17 @@
 # 100daysML
+## 19.12.2019
+### Neural networks grown and self-organized by noise
+- https://arxiv.org/pdf/1906.01039.pdf
+### Thought on paper
+- this is a very interesting article regarding to how to mimic bio-neural network formats
+- I have been speculating a network which can self organize and adjust (increase/decrease) based on tasks.
+- the article introduces 2 algorithms
+  - how to emerge a single cell to 2 layer networks
+  - how to form the patches, like CNN filters by Heebian like Algorithm
+- however it does not consider the high-level learning, i.e. the learned patches are purely from environment, no subjective purpose.
+- It seems a kind of  an unsupervised model
+- the provided MNIST application is not convincing.
+
 
 ## 08.11.2019
 ### Computing Receptive Fields of Convolutional Neural Networks
