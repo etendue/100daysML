@@ -1,4 +1,16 @@
 # 100daysML
+## 20.12.2019
+### Analyzing and Improving the Image Quality of StyleGAN
+- http://arxiv.org/abs/1912.04958
+### Thought on paper
+- intented to catch up the development of GAN.
+- the paper introduces some correction/improvement of StyleGAN
+- E.g. Progressive growing was thought to be a major improvement to generate high resolution image but comes with small drawbacks
+- explains the normalization trap with StyleGAN
+- analyzes entangled latent variables vs disentangled ones by transformation(I am not sure if this is my assumption or the article states expilicitly)
+- During reading the paper I come up with correlation between neural network and chaos systems. TO be specific, a system with multiple variables needs to be caustious not entering chaotic state.
+
+
 ## 19.12.2019
 ### Neural networks grown and self-organized by noise
 - https://arxiv.org/pdf/1906.01039.pdf
