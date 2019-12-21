@@ -1,4 +1,14 @@
 # 100daysML
+## 21.12.2019
+### Scalable Active Learning for Autonomous Driving
+- https://medium.com/@NvidiaAI/scalable-active-learning-for-autonomous-driving-a-practical-implementation-and-a-b-test-4d315ed04b5f
+### Thought on paper
+- this is not a traditional academic paper but rather a engineering one
+- the paper introduce a active learning (AL) method, which applies acquisition function on mulitiple models
+- the paper also presented the solution with all required hardware software stackes. Partially it is a advertisement of Nvidia
+- conclusion: very practical solution to adress continous model improvement with new data.
+
+
 ## 20.12.2019
 ### Analyzing and Improving the Image Quality of StyleGAN
 - http://arxiv.org/abs/1912.04958
