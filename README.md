@@ -1,4 +1,15 @@
 # 100daysML
+## 22.12.2019
+### Putting An End to End-to-End: Gradient-Isolated Learning of Representations
+- https://arxiv.org/pdf/1905.11786.pdf
+### Thought on paper
+- The method is based on assumption that "slow feature" among temporal or spatial local feature
+- by extracting these "slow feature" use maximizing the mututal information(discarding others) the sub networks/layers transform high dimensional inputs to relative low dimensional inputs, like most classification network do.
+- the layer-wise training seems not depending on the final goal explicitly, as gradient does not propagate back accross modules/layes, implicitly the final goal exerts an one-time relationship: that is "slow feature " assumption. 
+- so to speak, author is quite precise and cautious to make the title "Gradient-Isolated Learning of Representations" but not "Isolated Learning of Representations".
+- what is CPC? this is the 2nd time meeting this topic. need homework.
+- Also don't understand the Loss function, assuming relating to CPC.
+
 ## 21.12.2019
 ### Scalable Active Learning for Autonomous Driving
 - https://medium.com/@NvidiaAI/scalable-active-learning-for-autonomous-driving-a-practical-implementation-and-a-b-test-4d315ed04b5f
