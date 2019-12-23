@@ -1,4 +1,12 @@
 # 100daysML
+## 23.12.2019
+### A Simple Baseline for Bayesian Uncertainty in Deep Learning
+- https://arxiv.org/abs/1902.02476
+### Thought on paper
+- Honestly I hardly understand the content
+- It seems to introduce a SWAG algorithm to leverage the uncertanty in SGD and utilize this information to speed up training by maintaining big learning rate and improve the accuracy(?)
+
+
 ## 22.12.2019
 ### Putting An End to End-to-End: Gradient-Isolated Learning of Representations
 - https://arxiv.org/pdf/1905.11786.pdf
