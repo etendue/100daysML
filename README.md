@@ -1,4 +1,14 @@
 # 100daysML
+## 24.12.2019
+### Representation Learning with Contrastive Predictive Coding
+- https://arxiv.org/pdf/1807.03748.pdf
+### Thought on paper
+- this article introduce the article of CPC and explains the motivation of extract mutual information of input and context in low dimension
+- the point is how to derive and convert the input/ouput into the domain of information
+- I did not get this transformation intuitively from the equation.
+- when dealing with distribution, it is inevitable to confront intractable variables. Aproximate approches are needed.
+
+
 ## 23.12.2019
 ### A Simple Baseline for Bayesian Uncertainty in Deep Learning
 - https://arxiv.org/abs/1902.02476
