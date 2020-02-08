@@ -8,6 +8,7 @@
 * Update in Graphi Neural Network
 ### Baysian Inference DNN
 * Causal Network example/Application
+  * https://arxiv.org/abs/2002.02405
 
 ## Autonomous Driving
 * Point-Cloud related algorithms, e.g. LIDAR
