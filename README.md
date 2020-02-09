@@ -1,4 +1,15 @@
 # 100daysML
+## 09.02.2020
+### Axiomatic Attribution for Deep Networks
+- https://arxiv.org/pdf/1703.01365.pdf
+### Thought on paper
+- this is a paper to reason the deep network in sense which input (I) contributes the output(O)
+- it uses a method "Integrated Gradient" which literally integrats of gradient of output/input.
+- But why not gradient? the paper explains that pure gradient may lose sensitivity due to network implementation for some input
+- Then how to use it? Using a network, do an inference. Then compute the "Integrated Gradient" by using Riemann integral approximation method, namely sampling n discrete values and sum/avarageing.
+- The last point, I am happy that I got so much information from this paper:) 
+
+
 ## 24.12.2019
 ### Representation Learning with Contrastive Predictive Coding
 - https://arxiv.org/pdf/1807.03748.pdf
