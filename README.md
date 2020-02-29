@@ -1,11 +1,22 @@
 # 100daysML
+## 29.02.2020
+### Growing Neural Cellular Automata
+- https://distill.pub/2020/growing-ca/
+### Thought on paper
+- this paper is most interesting article in recent time
+- it connects my personal adventure into deep learning, complex system, e.g. CA and life science.
+- in pure deep learning, many model respect(inspired by life science, e.g CNN) but not fully consider the physical world's laws. I think it is too much abstract. Similar like multi universe model vs our world in theoretical physics
+- by adding bias, here the biological knowledge to neural network and computation model(cell), the result seems to approach reality.
+- another article of CapsuleNetwork 2019 from Hinton seems emphasize adding known real world laws into deep learning model.
+
+
 ## 15.02.2020
 ### Visualizing the Impact of Feature Attribution Baselines
 - https://distill.pub/2020/attribution-baselines/
 ### Thought on paper
 - this paper extends the topic from last paper and focus on effect of baseline and how to choose a baseline and its pitfall
 - instead of constant value baseline, several different approach is introduced, some of them are promising, e.g. distribution of data
-- claim that intepretation of model shall follow human logic is not valid. Not to say we don't know exactly human intution works.
+- claim that intepretation of model shall follow human logic is not valid. Not to say we don't know exactly human intution works.e
 - A question is answered with more questions but still insightful
 
 
