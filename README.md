@@ -1,4 +1,14 @@
 # 100daysML
+## 03.03.2020
+### Stacked Capsule Autoencoders
+- https://arxiv.org/pdf/1906.06818.pdf
+### Thought on paper
+- After visiting several presentation on this topic I read the paper finally. Though still skipped some details
+- Though the main idea is to add inductive prior (i.e. define affine transformation, prediction probablity and occlusion/alpha), 
+- the model is realized and improved by applying several tricks. E.g. sparcity. Probabily there is model parts, CNN, autoencode have certain weakness to implement the SCAE
+- it focuses mainly in vision problem, is not a generic idea. 
+- As in previous paper, add known knowledge to model seems the new trend in this area.
+
 ## 29.02.2020
 ### Growing Neural Cellular Automata
 - https://distill.pub/2020/growing-ca/
